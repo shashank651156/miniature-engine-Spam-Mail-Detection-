@@ -19,7 +19,7 @@ This repository contains a Jupyter Notebook that demonstrates how to build a mac
 ## Installation
 Clone this repository to your local machine:
 ```bash
-[miniature-engine-Spam-Mail-Detection](https://github.com/shashank651156/miniature-engine-Spam-Mail-Detection-/tree/main)
+https://github.com/shashank651156/miniature-engine-Spam-Mail-Detection
 ```
 
 Navigate to the cloned directory and install the required packages:
