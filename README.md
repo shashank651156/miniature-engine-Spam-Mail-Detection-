@@ -36,8 +36,5 @@ jupyter notebook email_spam_ham_classifier.ipynb
 
 Follow the steps in the notebook to run the analysis and model training.
 
-## Contributing
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
